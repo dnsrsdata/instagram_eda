@@ -11,9 +11,12 @@ apontando assim diferentes caminhos para o usuário.
 ### Objetivo
 
 Com dados da plataforma, é de interesse dos usuários entenderem como determinados
-grupos se relacionam com determinadas features. Com isso, uma clusterização dos
-perfis atuais, aliada a uma análise exploratória pode apontar uym caminho que
+grupos se relacionam com determinadas variáveis. Com isso, uma clusterização dos
+perfis atuais, aliada a uma análise exploratória pode apontar um caminho que
 eles podem seguir para garantir o sucesso no caminho de interesse.
+
+Além disso, uma análise temporal dos de cada categoria também pode apontar
+caminhos primissores.
 
 ### Sobre os dados
 
