@@ -2,7 +2,8 @@
 
 O mundo da criação de conteúdo no Instagram é extremamente dinâmico e 
 diversificado. A plataforma é conhecida por ser altamente visual, com foco em 
-imagens e vídeos, e é amplamente utilizada por uma variedade de usuários, desde indivíduos comuns até celebridades, influenciadores, marcas e empresas.
+imagens e vídeos, e é amplamente utilizada por uma variedade de usuários, desde 
+indivíduos comuns até celebridades, influenciadores, marcas e empresas.
 
 Por isso, aos que começaram ou pretendem começar nesse mundo, seria interessante
 entender como certos grupos se relacionam com determinadas características,
@@ -20,8 +21,8 @@ caminhos primissores.
 
 ### Sobre os dados
 
-O conjunto foi coletado no período de dezembro de 2022 e conta com as seguintes
-colunas:
+O conjunto utilizado é composto por dados coletados em diferentes momentos 
+de 2022. Suas colunas são as seguintes:
 - Rank: classificação.
 - name: arroba de usuário.
 - instagram name: nome de usuário.
@@ -31,6 +32,8 @@ colunas:
 - country: país do usuário.
 - Eng. (Auth.): engajamento do mês.
 - Eng. (Avg.): engajamento médio.
+
+Para download, siga o seguinte link: [Social Media Dataset](https://www.kaggle.com/datasets/ramjasmaurya/top-1000-social-media-channels)
 
 ### Métricas de avaliação
 
