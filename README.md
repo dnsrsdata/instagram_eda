@@ -45,11 +45,15 @@ git clone https://github.com/dnsrsdata/instagram_eda
 ```sh
 pip install poetry
 ```
-3. Instale as dependências do projeto:
+3. Inicie o poetry:
+```sh
+poetry init
+```
+4. Instale as dependências do projeto:
 ```sh
 poetry install
 ```
-4. Execute o notebook
+5. Execute o notebook
 
 ### Descrição dos arquivos
 
