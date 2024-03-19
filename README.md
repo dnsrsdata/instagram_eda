@@ -66,4 +66,4 @@ poetry install
 ### Resultados
 
 As descobertas foram condensadas em um arquivo pdf de relatório, visando
-facilitar o consumo dos insights. Confira a solução na pasta ```Relatório```.
+facilitar o consumo dos insights. Confira a solução na pasta ```relatorio```.
